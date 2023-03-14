@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-Cyber Security professional experienced from a technical perspective to post-sales and architecture. l 'm devoted and enjoy developing my skills through several platforms such as CyberTalents and TryHack-me. Proficient in VAPT security testing and reporting, and l have a strong background in Software Development.
+l am a highly motivated and passionate individual with strong analytical skills. Producing quality results is always what l strive for in the work l am set out to do. l am always eager to learn and enjoy developing my skills through several platforms such as Hacker-Rank, Cyber Talents and Try Hack-Me. l have worked in the IT industry for 3+ years and my skills range from Software Engineering, Technical Support, Vulnerability Assessment and Penetration Testing (VAPT).
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: My cloud experience includes AWS & Azure.
